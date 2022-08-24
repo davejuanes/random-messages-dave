@@ -14,7 +14,15 @@
   "author": "David Mercado Juanes <dmjuanes_@hotmail.es>",
   "license": "MIT",
   "bin": {
-    "random-msg": "./bin/global.js"
+    "random-msg": "bin/global.js"
   },
-  "preferGlobal": true
+  "preferGlobal": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davejuanes/random-messages-dave.git"
+  },
+  "bugs": {
+    "url": "https://github.com/davejuanes/random-messages-dave/issues"
+  },
+  "homepage": "https://github.com/davejuanes/random-messages-dave#readme"
 }
